@@ -162,6 +162,10 @@
           "type": "button",
           "settings": {
             "style": "outline",
+            "loggedintext": "View Collection",
+            "loggedin_url": "",
+            "notloggedin_url": "",
+            "notloggedintext": "REGISTER TO ACCESS PRICING",
             "background": "#f7f5f0",
             "text_color": "#454d31"
           }
@@ -311,6 +315,10 @@
           "type": "button",
           "settings": {
             "style": "solid",
+            "loggedintext": "View Collection",
+            "loggedin_url": "shopify://collections/belgian-pearls",
+            "notloggedin_url": "shopify://pages/register",
+            "notloggedintext": "REGISTER TO ACCESS PRICING",
             "background": "rgba(0,0,0,0)",
             "text_color": ""
           }
