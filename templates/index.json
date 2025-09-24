@@ -1,1 +1,525 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"video_7kRcHz":{"type":"video","settings":{"video":"shopify:\/\/files\/videos\/Untitled design.mp4","allow_sound":false,"subheading":"","subheading2":"","title":"Sit the standard","mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","content_max_width":780,"button_1_text":"","button_1_link":"shopify:\/\/collections\/belgian-pearls","button_1_style":"outline","button_1_background":"#ffffff","button_1_text_color":"#000000","button_2_text":"","button_2_link":"","button_2_style":"outline","button_2_background":"#ffffff","button_2_text_color":"#000000","background":"","background_opacity":50,"text_color":"#ffffff","border_color":"","gradient_overlay":"linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"}}},"block_order":["video_7kRcHz"],"settings":{"allow_transparent_header":true,"show_next_section_button":true,"media_size":"sm","show_initial_transition":false,"autoplay":true,"autoplay_pause_on_video":true,"cycle_speed":5,"background":"#000000","controls_color":"#ffffff"}},"rich_text_9xN7mG":{"type":"rich-text","blocks":{"heading_EXdNWw":{"type":"heading","settings":{"text":"A refined finishing touch has arrived","heading_tag":"h1"}},"subheading_tBrkCJ":{"type":"subheading","settings":{"text":"<a href=\"\/pages\/new-arrivals\" title=\"New Arrivals\">learn more<\/a>"}}},"block_order":["heading_EXdNWw","subheading_tBrkCJ"],"name":"t:sections.rich_text.presets.rich_text.name","settings":{"color_scheme":"scheme-1","separate_section_with_border":false,"content_width":"md","text_position":"center","remove_vertical_spacing":false}},"multi_column_DfgLGN":{"type":"multi-column","blocks":{"image_with_text_EBNVzV":{"type":"image_with_text","settings":{"image":"shopify:\/\/shop_images\/Mimi_Settee_w_Box_Cushion_5_450f2652-d280-446b-9425-e63a2c623423.png","title":"august lounge chair with box cushion","heading_tag":"h6","content":"","link_url":"shopify:\/\/pages\/new-arrivals","link_text":""}},"image_with_text_tBUihF":{"type":"image_with_text","settings":{"image":"shopify:\/\/shop_images\/Mimi_Settee_w_Knife_Edge_Cushion_815d9c2e-da12-437c-8916-f79ac85602c9.png","title":"mimi settee with knife edge pillow","heading_tag":"h6","content":"","link_url":"shopify:\/\/pages\/new-arrivals","link_text":""}},"image_with_text_pYb9Ka":{"type":"image_with_text","settings":{"image":"shopify:\/\/shop_images\/Mimi_Settee_w_Box_Cushion_3_7e2d6ce8-d420-4af1-afb3-4b0a64f84bb1.png","title":"august loungechair with knife edge pillow","heading_tag":"h6","content":"","link_url":"shopify:\/\/pages\/new-arrivals","link_text":""}},"image_with_text_8a6FGp":{"type":"image_with_text","settings":{"image":"shopify:\/\/shop_images\/Mimi_Settee_w_Box_Cushion_8_3e1b2b30-5bc4-4514-b0b3-5e6f19e238d1.png","title":"mimi settee with box cushion","heading_tag":"h6","content":"","link_url":"shopify:\/\/pages\/new-arrivals","link_text":""}}},"block_order":["image_with_text_EBNVzV","image_with_text_tBUihF","image_with_text_pYb9Ka","image_with_text_8a6FGp"],"name":"t:sections.multi_column.presets.multi_column.name","settings":{"color_scheme":"scheme-3","separate_section_with_border":false,"columns_per_row":4,"stack_on_mobile":false,"overlap_image":false,"content_alignment":"start","text_alignment":"start","spacing":"lg","subheading":"Tailored in signature ticking, crafted in box and knife edge designs","title":"introducing Cushions for the Belgian Pearls Collection","content":""}},"rich_text_rkLGC3":{"type":"rich-text","blocks":{"subheading_6Crj8Y":{"type":"subheading","settings":{"text":"<a href=\"\/pages\/contact-1\" target=\"_blank\" title=\"Contact\">CONTACT US FOR MORE INFORMATION ON THE BELGIAN PEARLS COLLECTION<\/a>"}}},"block_order":["subheading_6Crj8Y"],"name":"t:sections.rich_text.presets.rich_text.name","settings":{"color_scheme":"scheme-3","separate_section_with_border":false,"content_width":"xs","text_position":"center","remove_vertical_spacing":false}},"multiple_media_with_text_pNUtAg":{"type":"multiple-media-with-text","blocks":{"image_C47Ee7":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Mary_Louise_w_Cushions_d70ce0f1-4b14-4af4-9b6f-e1ccb601d117.png","rotation":0}},"image_4ygiB6":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/23_db5b13b4-be3b-4d27-b066-c3373a52d391.png","rotation":0}}},"block_order":["image_C47Ee7","image_4ygiB6"],"name":"t:sections.multiple_media_with_text.presets.multiple_media_with_text.name","settings":{"color_scheme":"","reveal_on_scroll":true,"separate_section_with_border":true,"media_position_desktop":"after_text","media_position_mobile":"before_text","media_layout":"overlap","media_alignment":"center","media_alignment_offset":0,"media_mobile_alignment_offset":0,"text_alignment":"center","subheading":"A New Icon in the Belgian Pearls Collection","title":"Introducing the Mary Louise Armchair","content":"<p><br\/>The Belgian Pearls Collection is defined by its architectural rattan forms and quiet elegance—pieces that live comfortably between tradition and modernity. The newest addition, the <strong>Mary Louise Armchair<\/strong>, continues this legacy with a silhouette that is both graceful and enduring.<br\/><br\/><\/p>","button_1_text":"inquire about this product","button_1_link":"shopify:\/\/pages\/contact-1","button_1_style":"solid","button_2_text":"","button_2_link":"","button_2_style":"solid"}},"featured-collections":{"type":"featured-collections","blocks":{"collection_UGKmqa":{"type":"collection","settings":{"collection":"belgian-pearls","products_count":50,"title":"Belgian Pearls","link_url":"shopify:\/\/collections\/belgian-pearls","link_text":"view the collection"}}},"block_order":["collection_UGKmqa"],"custom_css":[],"settings":{"color_scheme":"scheme-1","separate_section_with_border":true,"hide_product_information":false,"stack_products":false,"products_per_row_mobile":"1","products_per_row_desktop":3,"horizontal_spacing_factor":1,"vertical_spacing_factor":0.5,"subheading":"Exclusively available to north america through realm outdoors"}},"multiple_media_with_text_PVRKTt":{"type":"multiple-media-with-text","blocks":{"image_kPAqBc":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design_20_be2f2c38-333c-4b59-9ef2-1b70004b6f32.png","rotation":0}},"image_cdzDDj":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design_25.png","rotation":0}}},"block_order":["image_kPAqBc","image_cdzDDj"],"name":"t:sections.multiple_media_with_text.presets.multiple_media_with_text.name","settings":{"color_scheme":"","reveal_on_scroll":true,"separate_section_with_border":true,"media_position_desktop":"before_text","media_position_mobile":"before_text","media_layout":"overlap","media_alignment":"center","media_alignment_offset":0,"media_mobile_alignment_offset":0,"text_alignment":"center","subheading":"","title":"","content":"<p>PRESENTING OUR FIRST COLLECTION OF FINE RATTAN FURNISHINGS, BELGIAN PEARLS. EUROPEAN DESIGN, CURATED JUST FOR YOU. AVAILABLE EXCLUSIVELY IN NORTH AMERICA THROUGH <a href=\"\/pages\/who-we-are\" title=\"Who we are\"><strong>REALM OUTDOOR<\/strong><\/a>.<br\/><br\/><\/p>","button_1_text":"Contact Us","button_1_link":"shopify:\/\/pages\/contact-1","button_1_style":"solid","button_2_text":"","button_2_link":"","button_2_style":"solid"}},"slideshow_diREDj":{"type":"slideshow","name":"t:sections.slideshow.presets.slideshow.name","settings":{"allow_transparent_header":true,"show_next_section_button":true,"media_size":"auto","show_initial_transition":false,"autoplay":true,"autoplay_pause_on_video":true,"cycle_speed":5,"background":"#000000","controls_color":"#ffffff"}},"rich_text_gnUKLb":{"type":"rich-text","blocks":{"heading_rjnFt7":{"type":"heading","settings":{"text":"Realm outdoor","heading_tag":"h1"}},"subheading_TfApVW":{"type":"subheading","settings":{"text":"elevated. versatile. trade exclusive."}},"button_HXyYgM":{"type":"button","settings":{"style":"solid","text":"text","url":"shopify:\/\/pages\/register","background":"","text_color":""}}},"block_order":["heading_rjnFt7","subheading_TfApVW","button_HXyYgM"],"name":"t:sections.rich_text.presets.rich_text.name","settings":{"color_scheme":"","separate_section_with_border":true,"content_width":"sm","text_position":"center","remove_vertical_spacing":false}},"slideshow_FyKFXq":{"type":"slideshow","blocks":{"image_eCyDFb":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/9f51e0a0-cbd5-4b7a-90fc-42592789bef9.jpg","mobile_image":"shopify:\/\/shop_images\/9f51e0a0-cbd5-4b7a-90fc-42592789bef9.jpg","subheading":"","subheading2":"","title":"","mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","content_max_width":780,"button_1_text":"","button_1_link":"","button_1_style":"solid","button_1_background":"#ffffff","button_1_text_color":"#000000","button_2_text":"","button_2_link":"","button_2_style":"outline","button_2_background":"#ffffff","button_2_text_color":"#000000","background":"","background_opacity":50,"text_color":"#ffffff","border_color":"","gradient_overlay":"linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"}},"image_YXntFT":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/a5ebb7e6-4511-480d-954d-9b54997d560a.jpg","subheading":"","subheading2":"","title":"","mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","content_max_width":780,"button_1_text":"","button_1_link":"","button_1_style":"solid","button_1_background":"#ffffff","button_1_text_color":"#000000","button_2_text":"","button_2_link":"","button_2_style":"outline","button_2_background":"#ffffff","button_2_text_color":"#000000","background":"","background_opacity":50,"text_color":"#ffffff","border_color":"","gradient_overlay":"linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"}},"image_gzjeGw":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/378dc4aa-7eef-4dbf-a0b4-19eb864986cf.jpg","mobile_image":"shopify:\/\/shop_images\/378dc4aa-7eef-4dbf-a0b4-19eb864986cf.jpg","subheading":"","subheading2":"","title":"","mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","content_max_width":780,"button_1_text":"","button_1_link":"","button_1_style":"solid","button_1_background":"#ffffff","button_1_text_color":"#000000","button_2_text":"","button_2_link":"","button_2_style":"outline","button_2_background":"#ffffff","button_2_text_color":"#000000","background":"","background_opacity":50,"text_color":"#ffffff","border_color":"","gradient_overlay":"linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"}},"image_wp3VRq":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/6661c3f2-de6a-4aa2-9be1-3fe8cf75008f.jpg","mobile_image":"shopify:\/\/shop_images\/6661c3f2-de6a-4aa2-9be1-3fe8cf75008f.jpg","subheading":"","subheading2":"","title":"","mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","content_max_width":780,"button_1_text":"","button_1_link":"","button_1_style":"solid","button_1_background":"#ffffff","button_1_text_color":"#000000","button_2_text":"","button_2_link":"","button_2_style":"outline","button_2_background":"#ffffff","button_2_text_color":"#000000","background":"","background_opacity":50,"text_color":"#ffffff","border_color":"","gradient_overlay":"linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"}},"image_cdk8wf":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/514c2f8b-db3e-4c53-946a-2753eef36e33.jpg","mobile_image":"shopify:\/\/shop_images\/514c2f8b-db3e-4c53-946a-2753eef36e33.jpg","subheading":"","subheading2":"","title":"","mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","content_max_width":780,"button_1_text":"","button_1_link":"","button_1_style":"solid","button_1_background":"#ffffff","button_1_text_color":"#000000","button_2_text":"","button_2_link":"","button_2_style":"outline","button_2_background":"#ffffff","button_2_text_color":"#000000","background":"","background_opacity":50,"text_color":"#ffffff","border_color":"","gradient_overlay":"linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"}}},"block_order":["image_eCyDFb","image_YXntFT","image_gzjeGw","image_wp3VRq","image_cdk8wf"],"name":"t:sections.slideshow.presets.slideshow.name","settings":{"allow_transparent_header":true,"show_next_section_button":false,"media_size":"sm","show_initial_transition":false,"autoplay":true,"autoplay_pause_on_video":true,"cycle_speed":4,"background":"#000000","controls_color":"#ffffff"}},"blog_posts_3UCHhL":{"type":"blog-posts","name":"Behind the craft","settings":{"color_scheme":"","separate_section_with_border":true,"blog":"lifestyle","posts_count":3,"stack_on_mobile":false,"show_category":true,"show_date":false,"show_excerpt":true,"show_read_more":true,"subheading":"","title":"Blog posts","content":"","button_link":"","button_text":"View all"}}},"order":["slideshow","rich_text_9xN7mG","multi_column_DfgLGN","rich_text_rkLGC3","multiple_media_with_text_pNUtAg","featured-collections","multiple_media_with_text_PVRKTt","slideshow_diREDj","rich_text_gnUKLb","slideshow_FyKFXq","blog_posts_3UCHhL"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "video_7kRcHz": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/Homepage Hero Realm.mp4",
+            "allow_sound": false,
+            "subheading": "",
+            "subheading2": "",
+            "title": "Sit the standard",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "shopify://collections/belgian-pearls",
+            "button_1_style": "outline",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        }
+      },
+      "block_order": [
+        "video_7kRcHz"
+      ],
+      "settings": {
+        "allow_transparent_header": true,
+        "show_next_section_button": true,
+        "media_size": "sm",
+        "show_initial_transition": false,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#000000",
+        "controls_color": "#ffffff"
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_UGKmqa": {
+          "type": "collection",
+          "settings": {
+            "collection": "belgian-pearls",
+            "products_count": 50,
+            "title": "Belgian Pearls",
+            "link_url": "shopify://collections/belgian-pearls",
+            "link_text": "View full collection"
+          }
+        }
+      },
+      "block_order": [
+        "collection_UGKmqa"
+      ],
+      "custom_css": [],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 0.5,
+        "subheading": "Exclusively available to north america through realm outdoors"
+      }
+    },
+    "multi_column_DfgLGN": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_EBNVzV": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/Mimi_Settee_w_Box_Cushion_5_450f2652-d280-446b-9425-e63a2c623423.webp",
+            "title": "august lounge chair with box cushion",
+            "heading_tag": "h6",
+            "content": "",
+            "link_url": "shopify://products/august-lounge-chair-cushions",
+            "link_text": ""
+          }
+        },
+        "image_with_text_tBUihF": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/Mimi_Settee_w_Knife_Edge_Cushion_815d9c2e-da12-437c-8916-f79ac85602c9.webp",
+            "title": "mimi settee with knife edge pillow",
+            "heading_tag": "h6",
+            "content": "",
+            "link_url": "shopify://products/mimi-settee-cushion",
+            "link_text": ""
+          }
+        },
+        "image_with_text_pYb9Ka": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/Mimi_Settee_w_Box_Cushion_3_7e2d6ce8-d420-4af1-afb3-4b0a64f84bb1.webp",
+            "title": "august loungechair with knife edge pillow",
+            "heading_tag": "h6",
+            "content": "",
+            "link_url": "shopify://products/august-lounge-chair-cushions",
+            "link_text": ""
+          }
+        },
+        "image_with_text_8a6FGp": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/Mimi_Settee_w_Box_Cushion_8_3e1b2b30-5bc4-4514-b0b3-5e6f19e238d1.webp",
+            "title": "mimi settee with box cushion",
+            "heading_tag": "h6",
+            "content": "",
+            "link_url": "shopify://products/mimi-settee-cushion",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_EBNVzV",
+        "image_with_text_tBUihF",
+        "image_with_text_pYb9Ka",
+        "image_with_text_8a6FGp"
+      ],
+      "name": "t:sections.multi_column.presets.multi_column.name",
+      "settings": {
+        "color_scheme": "scheme-3",
+        "separate_section_with_border": false,
+        "columns_per_row": 4,
+        "stack_on_mobile": false,
+        "overlap_image": false,
+        "content_alignment": "start",
+        "text_alignment": "start",
+        "spacing": "lg",
+        "subheading": "Tailored in our signature black & white ticking, crafted in box and knife-edge designs",
+        "title": "introducing Cushions for the Belgian Pearls Collection",
+        "content": ""
+      }
+    },
+    "rich_text_rkLGC3": {
+      "type": "rich-text",
+      "blocks": {
+        "button_whqbUy": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "background": "#f7f5f0",
+            "text_color": "#454d31"
+          }
+        },
+        "subheading_6Crj8Y": {
+          "type": "subheading",
+          "settings": {
+            "text": "<a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\">contact us</a> for us for Customer own material (COM) requests"
+          }
+        }
+      },
+      "block_order": [
+        "button_whqbUy",
+        "subheading_6Crj8Y"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "scheme-3",
+        "separate_section_with_border": false,
+        "content_width": "xs",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "multiple_media_with_text_PVRKTt": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_kPAqBc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/7.webp",
+            "rotation": 0
+          }
+        },
+        "image_cdzDDj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/8.webp",
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_kPAqBc",
+        "image_cdzDDj"
+      ],
+      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": true,
+        "media_position_desktop": "before_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "Timeless Rattan. For Designers, For Collectors, For You.",
+        "title": "The Belgian Pearls Collection",
+        "content": "<p>Our launching collection introduces fine rattan furnishings with timeless European design. Now available in North America through Realm Outdoor. </p><p>Shop directly for your home or register as a trade professional to access exclusive pricing and benefits.<br/><br/></p>",
+        "button_1_text": "Register to Trade",
+        "button_1_link": "shopify://pages/press",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
+    "multiple_media_with_text_pNUtAg": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_C47Ee7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/5.webp",
+            "rotation": 0
+          }
+        },
+        "image_4ygiB6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/4.webp",
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_C47Ee7",
+        "image_4ygiB6"
+      ],
+      "name": "t:sections.multiple_media_with_text.presets.multiple_media_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "reveal_on_scroll": true,
+        "separate_section_with_border": true,
+        "media_position_desktop": "after_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
+        "subheading": "A New Icon in the Belgian Pearls Collection",
+        "title": "Introducing the Mary Louise Armchair",
+        "content": "<p><br/>The Belgian Pearls Collection is defined by its architectural rattan forms and natural elegance—pieces that live comfortably between tradition and modernity. The newest addition, the <strong>Mary Louise Armchair</strong>, continues this legacy with a silhouette that is both graceful and enduring.<br/><br/></p>",
+        "button_1_text": "SHOP NOW",
+        "button_1_link": "shopify://collections/belgian-pearls",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
+    "slideshow_diREDj": {
+      "type": "slideshow",
+      "name": "t:sections.slideshow.presets.slideshow.name",
+      "settings": {
+        "allow_transparent_header": true,
+        "show_next_section_button": true,
+        "media_size": "auto",
+        "show_initial_transition": false,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#000000",
+        "controls_color": "#ffffff"
+      }
+    },
+    "rich_text_gnUKLb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rjnFt7": {
+          "type": "heading",
+          "settings": {
+            "text": "Realm outdoor",
+            "heading_tag": "h1"
+          }
+        },
+        "subheading_TfApVW": {
+          "type": "subheading",
+          "settings": {
+            "text": "elevated. natural. versatile."
+          }
+        },
+        "button_HXyYgM": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "background": "rgba(0,0,0,0)",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_rjnFt7",
+        "subheading_TfApVW",
+        "button_HXyYgM"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "slideshow_FyKFXq": {
+      "type": "slideshow",
+      "blocks": {
+        "image_eCyDFb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/378dc4aa-7eef-4dbf-a0b4-19eb864986cf.webp",
+            "subheading": "",
+            "subheading2": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        },
+        "image_YXntFT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/514c2f8b-db3e-4c53-946a-2753eef36e33.webp",
+            "subheading": "",
+            "subheading2": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        },
+        "image_gzjeGw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/378dc4aa-7eef-4dbf-a0b4-19eb864986cf.webp",
+            "subheading": "",
+            "subheading2": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        },
+        "image_wp3VRq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/9f51e0a0-cbd5-4b7a-90fc-42592789bef9.webp",
+            "subheading": "",
+            "subheading2": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        },
+        "image_cdk8wf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/a5ebb7e6-4511-480d-954d-9b54997d560a.webp",
+            "subheading": "",
+            "subheading2": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        }
+      },
+      "block_order": [
+        "image_eCyDFb",
+        "image_YXntFT",
+        "image_gzjeGw",
+        "image_wp3VRq",
+        "image_cdk8wf"
+      ],
+      "name": "t:sections.slideshow.presets.slideshow.name",
+      "settings": {
+        "allow_transparent_header": true,
+        "show_next_section_button": false,
+        "media_size": "sm",
+        "show_initial_transition": false,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 4,
+        "background": "#000000",
+        "controls_color": "#ffffff"
+      }
+    },
+    "blog_posts_3UCHhL": {
+      "type": "blog-posts",
+      "name": "Behind the craft",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "blog": "lifestyle",
+        "posts_count": 3,
+        "stack_on_mobile": true,
+        "show_category": false,
+        "show_date": false,
+        "show_excerpt": true,
+        "show_read_more": true,
+        "subheading": "",
+        "title": "Blog posts",
+        "content": "",
+        "button_link": "shopify://blogs/lifestyle",
+        "button_text": "learn more"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured-collections",
+    "multi_column_DfgLGN",
+    "rich_text_rkLGC3",
+    "multiple_media_with_text_PVRKTt",
+    "multiple_media_with_text_pNUtAg",
+    "slideshow_diREDj",
+    "rich_text_gnUKLb",
+    "slideshow_FyKFXq",
+    "blog_posts_3UCHhL"
+  ]
+}
