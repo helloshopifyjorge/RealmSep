@@ -503,7 +503,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "blog": "lifestyle",
+        "blog": "journal",
         "posts_count": 3,
         "stack_on_mobile": true,
         "show_category": false,
@@ -513,7 +513,7 @@
         "subheading": "",
         "title": "Blog posts",
         "content": "",
-        "button_link": "shopify://blogs/lifestyle",
+        "button_link": "shopify://blogs/journal",
         "button_text": "learn more"
       }
     }
